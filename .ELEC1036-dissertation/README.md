@@ -1,0 +1,1 @@
+This contains my final year dissertation, A Machine Learning Approach to Flash Flood Prediction in Southwest England along with the associated data. The study explores the relationship between the North Atlantic Oscillation, the Atlantic Multidecadal Oscillation climate indices, and topographical data in predicting flash floods.

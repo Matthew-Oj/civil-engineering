@@ -1,0 +1,1 @@
+CIVI0008 MATLAB script finding Eigenvalues and Eigenvectors of a two-story structure

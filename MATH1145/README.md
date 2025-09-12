@@ -1,0 +1,1 @@
+MATH 1145 Designed a program to model the beam analysis of a simply supported 10 meter beam
